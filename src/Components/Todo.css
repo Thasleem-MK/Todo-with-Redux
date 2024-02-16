@@ -1,0 +1,44 @@
+.root {
+  width: 50%;
+  min-height: 195px;
+  background-color: rgb(17, 0, 53);
+}
+form {
+  height: 85px;
+}
+input {
+  height: 45px;
+  width: 80%;
+  color: rgb(17, 0, 53);
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 25px;
+}
+button {
+  height: 40px;
+  width: 20%;
+  border: 1px solid rgb(17, 0, 53);
+  font-weight: 700;
+  color: rgb(17, 0, 53);
+}
+.Elements {
+  min-height: 45px;
+  width: 100%;
+  color: rgb(17, 0, 53);
+  display: flex;
+  align-items: center;
+}
+.TextArea {
+  width: 85%;
+  height: inherit;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  font-size: 20;
+  font-weight: 600;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.copyright{
+  font-size: 10px;
+  padding-bottom: 5px;
+}
